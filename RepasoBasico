@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package repasobasica;
+package repasobasico;
 
 import ico.fes.dispositivos.SmartPhone;
 
@@ -11,7 +11,7 @@ import ico.fes.dispositivos.SmartPhone;
  *
  * @author estra
  */
-public class RepasoBasica {
+public class RepasoBasico {
 
     /**
      * @param args the command line arguments
